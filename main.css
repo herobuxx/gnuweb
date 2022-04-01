@@ -1,0 +1,34 @@
+body {
+  background: linear-gradient(to bottom, rgba(64,58,62,1) 0%, 
+      rgba(190,88,105,1) 100%);
+  font-family: 'Inter';
+  min-height: 97vh;
+  color: white;
+}
+
+.content {
+  position: absolute;
+  font-size: 15px;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-25%, -25%);
+  transform: translate(-50%, -50%);
+}
+
+.release_title {
+	font-size: 85px;
+}
+
+.release_title {
+	font-size: 25px;
+}
+
+.release_button {
+	border-radius: 100px;
+	border-width: 1px;
+	border-color: white;
+	background-color: transparent;
+	width: 125px;
+	height: 40px;
+    color: white;
+}
